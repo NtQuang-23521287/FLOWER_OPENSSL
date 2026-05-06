@@ -55,15 +55,15 @@ flower_mtls/
 ---
 
 ## Yêu cầu cài đặt
-
+Tạo môi trường ảo 
 ```bash
 python -m venv flower
 ```
-
+Active môi trường ảo
 ```bash
 flower\Scripts\activate
 ```
-
+Cài đặt các thư viện cần thiết
 ```bash
 pip install -r requirements.txt
 ```
