@@ -58,7 +58,13 @@ flower_mtls/
 
 ```bash
 python -m venv flower
+```
+
+```bash
 flower\Scripts\activate
+```
+
+```bash
 pip install -r requirements.txt
 ```
 
